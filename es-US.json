@@ -1,8 +1,8 @@
 {
-"customer":"cliente",
- "bookings":  "reservas",
- "new day": "Nuevo día",
- "catalogue": "catálogo",
-  "client": "cliente",
-  "customer data":"Datos del cliente"
+"customer":"cliente test",
+ "bookings":  "reservas test",
+ "new day": "Nuevo día test",
+ "catalogue": "catálogo test",
+  "client": "cliente test",
+  "customer data":"Datos del cliente test"
 }
