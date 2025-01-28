@@ -1,8 +1,8 @@
 {
-"customer":"customer",
- "bookings":  "bookings",
- "new day": "new day",
- "catalogue": "catalogue",
-  "client": "client",
-  "customer data":"customer data"
+"customer":"customer test",
+ "bookings":  "booking tests",
+ "new day": "new day test",
+ "catalogue": "catalogue test",
+  "client": "client test",
+  "customer data":"customer data test"
 }
