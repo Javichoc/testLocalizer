@@ -1,0 +1,8 @@
+{
+"customer":"customer",
+ "bookings":  "bookings",
+ "new day": "new day",
+ "catalogue": "catalogue",
+  "client": "client",
+  "customer data":"customer data"
+}
